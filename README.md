@@ -8,6 +8,6 @@ Google Colab :
 2) Importing the dataset from Yahoo Finance
 3) Data Visualization using plotly express
 4) Data Prepation & Modelling
-5) Foecasting
+5) Forecasting
 
 Data Evaluation : Use Google Finance in Google Sheets
