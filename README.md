@@ -12,8 +12,8 @@ Google Colab :
 
 Data Evaluation : Use Google Finance in Google Sheets
 
-Guidance: 
-Prophet Documentation: https://prophet.readthedocs.io/en/latest/tutorial.html
-Plotly Documentation : https://plotly.com/python/
-Coursera Guided Project : https://www.coursera.org/projects/tesla-stock-price-prediction-facebook-prophet (instructor: Abhishek Jha)
+Guidance: <br>
+Prophet Documentation: https://prophet.readthedocs.io/en/latest/tutorial.html <br>
+Plotly Documentation : https://plotly.com/python/ <br>
+Coursera Guided Project (instructor: Abhishek Jha): https://www.coursera.org/projects/tesla-stock-price-prediction-facebook-prophet 
 
