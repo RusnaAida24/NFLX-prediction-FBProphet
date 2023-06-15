@@ -1,6 +1,7 @@
 # NFLX-prediction-Prophet
 Netflix Stock Prediction for 30days with Prophet 
 
+Platform : Google Colab
 Data Collection (Yahoo Finance) : https://finance.yahoo.com/quote/NFLX/history?p=NFLX
 
 Google Colab : 
