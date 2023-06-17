@@ -2,7 +2,12 @@
 Netflix Stock Prediction for 30days with Prophet 
 
 Platform : Google Colab<br>
-Data Collection (Yahoo Finance) : https://finance.yahoo.com/quote/NFLX/history?p=NFLX
+Data Collection (Yahoo Finance) : https://finance.yahoo.com/quote/NFLX/history?p=NFLX <br>
+
+The figure was taken on 9June2023- Netflix Market on Yahoo Finance
+
+![NETFLIX YAHOO FINANCE](https://github.com/RusnaAida24/NFLX-prediction-Prophet/assets/92347993/c2795bbb-b23a-48e4-b634-a82e72fba31d)
+<br><br>
 
 Google Colab : 
 1) Importing all the necessary libraries
