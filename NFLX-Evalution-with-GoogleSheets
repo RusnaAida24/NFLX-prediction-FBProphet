@@ -1,1 +1,9 @@
-git.keep
+Evaluate the forecast by using Google Sheets <br>
+
+1) Open Google Sheets, edit the file name-"NFLX-Evaluation"<br>
+2) Enter this formula on cell A1--> =GOOGLEFINANCE("NFLX,"price",DATE(2022,6,10),DATE(2023,6,10)), press enter.<br>
+
+The picture should be appeared as below.
+
+
+
