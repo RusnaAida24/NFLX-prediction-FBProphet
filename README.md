@@ -22,7 +22,7 @@ Summary: https://github.com/RusnaAida24/NFLX-prediction-Prophet/wiki/Conclusion-
 
 Guidance: <br>
 Prophet Documentation: https://prophet.readthedocs.io/en/latest/tutorial.html <br>
-Plotly Documentation : https://plotly.com/python/ <br>
-Coursera Guided Project (instructor: Abhishek Jha): https://www.coursera.org/projects/tesla-stock-price-prediction-facebook-prophet 
+Plotly Documentation   : https://plotly.com/python/ <br>
+ 
 
 
